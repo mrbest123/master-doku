@@ -1,0 +1,13 @@
+{
+  "Master Doku": "Test"
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "Master Doku",
+  "scripts": {
+    "start": "node Master Doku"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
